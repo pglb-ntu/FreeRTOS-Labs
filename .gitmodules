@@ -1,6 +1,6 @@
 [submodule "FreeRTOS-Labs/Source/FreeRTOS-Plus-FAT"]
 	path = FreeRTOS-Labs/Source/FreeRTOS-Plus-FAT
-	url = https://github.com/FreeRTOS/Lab-Project-FreeRTOS-FAT.git
+	url = https://github.com/CTSRD-CHERI/Lab-Project-FreeRTOS-FAT.git
 [submodule "FreeRTOS-Labs/Source/FreeRTOS-Plus-POSIX"]
 	path = FreeRTOS-Labs/Source/FreeRTOS-Plus-POSIX
 	url = https://github.com/FreeRTOS/Lab-Project-FreeRTOS-POSIX.git
@@ -16,3 +16,12 @@
 [submodule "FreeRTOS-Plus/Source/FreeRTOS-PKCS"]
 	path = FreeRTOS-Plus/Source/FreeRTOS-PKCS
 	url = https://github.com/FreeRTOS/FreeRTOS-PKCS
+[submodule "FreeRTOS-Labs/Source/FreeRTOS-libdl"]
+	path = FreeRTOS-Labs/Source/FreeRTOS-libdl
+	url = https://github.com/CTSRD-CHERI/FreeRTOS-Labs-libdl.git
+[submodule "FreeRTOS-Labs/Source/FreeRTOS-libvirtio"]
+	path = FreeRTOS-Labs/Source/FreeRTOS-libvirtio
+	url = https://github.com/CTSRD-CHERI/FreeRTOS-Labs-libvirtio.git
+[submodule "FreeRTOS-Labs/Source/FreeRTOS-libcheri"]
+	path = FreeRTOS-Labs/Source/FreeRTOS-libcheri
+	url = https://github.com/CTSRD-CHERI/FreeRTOS-Labs-libcheri.git
